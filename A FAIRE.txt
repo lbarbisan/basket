@@ -1,4 +1,9 @@
-Pour tous les documents :
-Relire et compléter, si il manque des choses
-Rajouter du blabla dans conduite de projet
+1.Pour tous les documents :
+Relire et compléter si il manque des choses
+
+2. Pour consuite de projet :
+	=> Rajouter des transitions entre les diagrammes
+	=> Expliquer le but des diagrammes (voir le cours de conduite de projet)
+	=> Faire une petite introduction et une petite conclusion
+
 
