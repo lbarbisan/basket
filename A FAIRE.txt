@@ -1,9 +1,6 @@
-1.Pour tous les documents :
-Relire et complÈter si il manque des choses
+Reste à faire : 
 
-2. Pour consuite de projet :
-	=> Rajouter des transitions entre les diagrammes
-	=> Expliquer le but des diagrammes (voir le cours de conduite de projet)
-	=> Faire une petite introduction et une petite conclusion
-
+- Ajout légende diagramme de flux (insertion légende dans visio)
+- Lisibilité planning ( ---> changer définition, taille ?)
+- Orientation page de conclusion
 
